@@ -1,5 +1,6 @@
 
-Click Analysis of Social Media Ads
+Click Analysis of Social Media Ads-
+
 This project focuses on analyzing the click data from social media advertisements using various Python libraries. 
 The analysis aims to provide insights into the performance of ads, helping to optimize future campaigns. 
 The primary tools used for this analysis include Plotly for visualization and NumPy and Pandas for data manipulation and analysis.
